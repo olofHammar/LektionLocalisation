@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LektionLocalisation</string>
+    <string name="greeting">Hello and welcome</string>
 </resources>
