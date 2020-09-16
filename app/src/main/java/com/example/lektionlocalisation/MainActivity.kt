@@ -19,6 +19,11 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun testFunction () {
+
+
+    }
+
     fun btnPressed (v: View) {
         //För att lägga in en placeholder i strängen används %1$s för string (1 betyder att det är första placeholdern och
         //skrivs %2$s om det ska läggas till en till placeholder i samma sträng. Här nedan skickar vi med name som
