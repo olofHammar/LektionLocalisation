@@ -9,6 +9,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 lateinit var greeting: TextView
 var name: String = "Olle"
 var age: Int = 10
+//Lägger till lite kommentarer.
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     fun testFunction () {
 
+        //Lägger in en kommentar här
 
     }
 
