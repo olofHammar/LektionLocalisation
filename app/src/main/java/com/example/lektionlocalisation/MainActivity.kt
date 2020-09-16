@@ -8,6 +8,8 @@ import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_main.*
 lateinit var greeting: TextView
 var name: String = "Olle"
+var age: Int = 10
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
